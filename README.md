@@ -11,6 +11,8 @@ Users can share their latest and most unique experiences through posts, as well 
 
 [Deployed Site](https://cosplay-mania.herokapp.com/)
 
+-----
+
 # User Experience 
 
 ## Aim of the Website
@@ -70,7 +72,7 @@ Pixel Station caters to a diverse group of gaming enthusiasts:
 8. **As a Historian:**
    - I want to contribute to discussions about the historical significance of different gaming eras and share my knowledge with the community.
 
-### Testimonials
+### Testimonials generated 
 
 1. **Johnny - Retro Gamer (Age: 38):**
    > "Pixel Station has reignited my love for classic games! Connecting with fellow enthusiasts in the community has been a blast. The discussions about gaming evolution take me on a trip down memory lane. This platform truly captures the essence of retro gaming."
@@ -81,8 +83,37 @@ Pixel Station caters to a diverse group of gaming enthusiasts:
 3. **Amy - Retro Streamer (Age: 32):**
    > "Pixel Station is a haven for content creators like me! Sharing my retro gaming experiences with a collaborative community has been fantastic. The support and engagement from viewers within the Pixel Station community have significantly boosted my channel. It's more than just a platform; it's a retro gaming family!"
 
-
 ## User Goals 
+
+
+----
+
+# Branding 
+![Logo](src/assets/cosplaymania-logo.png)
+
+## Logo:
+The logo features a joystick, symbolising the retro gaming experience.
+
+## Font:
+I have chosen the xx font to capture the essence of classic gaming. This pixelated font adds a playful and vintage touch to the website. 
+
+I have also chosen xx 
+
+## Colors:
+The primary color palette includes:
+
+The nostalgic blue, green and classic black.
+
+# Website Design 
+
+## Wireframe via balsamiq
+### Homepage 
+### Page 2
+### Page 3
+### Page 4 
+
+## Mockup via Figma 
+##
 
 ## Agile Kanban
 
